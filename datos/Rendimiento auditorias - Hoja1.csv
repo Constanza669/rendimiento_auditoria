@@ -1,0 +1,44 @@
+Servicio,Region,Auditoria,Categoria,Subgerencia,Cumplimiento parcial,Cumplimiento final,Nc preliminar,NC definitivas,NC tratadas
+Cerro Colorado,Tarapaca,Higiene y Salud Ocupacional,B,Hector Figueroa,87%,100%,9,0,9
+SGO,Antofagasta,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,85%,99%,9,1,8
+El Peñon,Antofagasta,Higiene y Salud Ocupacional,B,Mauricio Aguilera ,88%,100%,6,0,6
+Spence,Antofagasta,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,62%,78%,51,31,20
+Geologia,Antofagasta,Higiene y Salud Ocupacional,A,Hector Figueroa,73%,94%,28,8,20
+Magnetita,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,76%,99%,19,1,18
+Cerro Negro,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,85%,100%,9,0,9
+CDA,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,38%,38%,41,41,0
+Casa Matriz,Metropolitana,Higiene y Salud Ocupacional,B,Victor Zañartu,75%,98%,23,4,19
+Anglo American,Metropolitana,Higiene y Salud Ocupacional,A,Elias Matamoros,92%,100%,7,0,7
+CMPC,Bio Bio ,Higiene y Salud Ocupacional,A,Elias Matamoros,83%,100%,20,0,20
+INCO,Atacama y Coquimbo,Higiene y Salud Ocupacional,B,Elias Matamoros,27%,79%,35,6,29
+Quebrada Blanca,Tarapaca,Higiene y Salud Ocupacional,A,Mauricio Aguilera ,55%,75%,48,21,27
+Cerro Colorado,Tarapaca,Seguridad,B,Hector Figueroa,100%,100%,1,0,1
+SGO,Antofagasta,Seguridad,A,Mauricio Aguilera ,90%,100%,11,0,11
+El Peñon,Antofagasta,Seguridad,B,Mauricio Aguilera ,91%,100%,3,0,3
+Spence,Antofagasta,Seguridad,A,Mauricio Aguilera ,92%,95%,7,4,3
+Geologia,Antofagasta,Seguridad,A,Hector Figueroa,67%,97%,27,3,24
+Cerro Negro,Atacama y Coquimbo,Seguridad,B,Elias Matamoros,78%,100%,20,0,20
+CDA,Atacama y Coquimbo,Seguridad,B,Elias Matamoros,68%,79%,21,15,6
+Casa Matriz,Metropolitana,Seguridad,B,Victor Zañartu,83%,100%,11,0,11
+Anglo American,Metropolitana,Seguridad,A,Elias Matamoros,97%,100%,5,0,5
+CMPC,Bio Bio ,Seguridad,A,Elias Matamoros,99%,100%,1,0,1
+INCO,Atacama y Coquimbo,Seguridad,B,Elias Matamoros,68%,85%,25,13,12
+Quebrada Blanca,Tarapaca,Seguridad,A,Mauricio Aguilera ,78%,95%,20,6,14
+Cerro Colorado,Tarapaca,Calidad,B,Hector Figueroa,100%,100%,0,0,0
+El Peñon,Antofagasta,Calidad,B,Mauricio Aguilera ,77%,100%,11,0,11
+Spence,Antofagasta,Calidad,A,Mauricio Aguilera ,94%,98%,3,1,2
+Geologia,Antofagasta,Calidad,A,Hector Figueroa,73%,90%,17,9,8
+Casa Matriz,Metropolitana,Calidad,B,Victor Zañartu,55%,97%,13,2,11
+Anglo American,Metropolitana,Calidad,A,Elias Matamoros,91%,100%,6,0,6
+CMPC,Bio Bio ,Calidad,A,Elias Matamoros,93%,100%,5,0,5
+INCO,Atacama y Coquimbo,Calidad,B,Elias Matamoros,75%,80%,13,10,3
+Quebrada Blanca,Tarapaca,Calidad,A,Mauricio Aguilera ,83%,95%,6,3,3
+Cerro Colorado,Tarapaca,Medio Ambiente,B,Hector Figueroa,100%,100%,0,0,0
+El Peñon,Antofagasta,Medio Ambiente,B,Mauricio Aguilera ,100%,100%,0,0,0
+Spence,Antofagasta,Medio Ambiente,A,Mauricio Aguilera ,100%,100%,0,0,0
+Geologia,Antofagasta,Medio Ambiente,A,Hector Figueroa,69%,100%,7,0,7
+Casa Matriz,Metropolitana,Medio Ambiente,B,Victor Zañartu,68%,99%,10,1,9
+Anglo American,Metropolitana,Medio Ambiente,A,Elias Matamoros,97%,100%,1,0,1
+CMPC,Bio Bio ,Medio Ambiente,A,Elias Matamoros,90%,100%,2,0,2
+INCO,Atacama y Coquimbo,Medio Ambiente,B,Elias Matamoros,89%,93%,4,2,2
+Quebrada Blanca,Tarapaca,Medio Ambiente,A,Mauricio Aguilera ,100%,100%,0,0,0
